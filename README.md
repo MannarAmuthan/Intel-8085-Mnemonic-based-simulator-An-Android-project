@@ -10,6 +10,8 @@ An android app to simulate 8085 microprocessor, which is now compatible with 68 
 
 3.Instructions- A class contains the properties and list of all instructions
 
+4.Ram- For storing data, powered by SQLite
+
 Apart from all other assembly simulators, this app only focuses on mnemonic based simulations. User can check their logic of
 assembly instruction set without any entry of opcodes. Purely created for check our logic.
 
